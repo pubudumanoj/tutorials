@@ -1,0 +1,6 @@
+Remove CTRL-M characters from a file in UNIX
+
+If you find a ^M character in your text files the possible reason could be MS_DOS to UNIX 
+character conversion issue (forgot to transfer it ASCII or text mode). You can remove the it using Notepad++.
+Go to EDIT > EOL COVERSION > UNIX (LF).
+Save the file
